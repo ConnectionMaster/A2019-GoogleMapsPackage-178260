@@ -13,6 +13,6 @@ public class MiscTests {
 
 
 
-        //HTTPRequest.GETpng("https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,+New+York,NY&zoom=12&size=600x400&maptype=roadmap&key=AIzaSyAFPRwNXEHneRoylvLkIOlXzT6VL7dn1Yk","C:\\Users\\james.dickson\\Documents\\Google Maps Testing\\test.png");
+        //HTTPRequest.GETpng("https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,+New+York,NY&zoom=12&size=600x400&maptype=roadmap&key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX","C:\\Users\\james.dickson\\Documents\\Google Maps Testing\\test.png");
     }
 }
